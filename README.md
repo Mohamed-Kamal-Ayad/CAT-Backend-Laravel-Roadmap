@@ -7,12 +7,13 @@
 
 ## ⭐ PHP 
 
-- [PHP For Beginners ](https://laracasts.com/series/php-for-beginners-2023-edition)
+- [PHP For Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)
+- [Mastering PHP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
 ## ⭐ OOP With PHP 
 
-- [Learn Object Oreinted PHP ](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
-- [Object Oriented PHP Tutorials ](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+- [Learn Object Oreinted PHP](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+- [Object Oriented PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
 
 ## ⭐ Unified Modeling Language (UML)
 
@@ -20,10 +21,7 @@
 
 ## 🔭 Project
 
-- Steps
-  - step one
-  - step two
-  - step three
+- IN PROGRESS...
 
 ## ⭐ Laravel
 
@@ -35,18 +33,14 @@
 
 ## 🔭 Project
 
-- Steps
-  - step one
-  - step two
-  - step three
+- IN PROGRESS...
 
 ## ⭐ API
-
-- [API-Course-For-Beginners ](https://youtube.com/playlist?list=PLftLUHfDSiZ6MfN8UhhcXDhh64eejvIKK)
+- [What is REST API?](https://www.youtube.com/watch?v=SLwpqD8n3d0&ab_channel=ProgrammingwithMosh)
+- [API For Beginner](https://www.youtube.com/watch?v=TzAJfjCn7Ks&t=378s&ab_channel=CodeWithDary) 
+- [Laravel API Server Full Course - Beginner to Intermediate](https://www.youtube.com/watch?v=_zNi37BJVBk&ab_channel=Acadea.io)
 
 ## 🔭 Project
 
-- Steps
-  - step one
-  - step two
-  - step three
+- IN PROGRESS...
+
