@@ -17,7 +17,8 @@
 
 ## ⭐ Unified Modeling Language (UML)
 
-- [Unified Modeling Language (UML) ](https://www.youtube.com/playlist?list=PLEFCLObymo052KL2YXBH5MZpusVWWv9WL)
+- [Unified Modeling Language (UML) ](https://www.youtube.com/playlist?list=PLEFCLObymo052KL2YXBH5MZpusVWWv9WL) -> Arabic
+- [Unified Modeling Language (UML) ](https://www.youtube.com/watch?v=WnMQ8HlmeXc&ab_channel=freeCodeCamp.org) -> English
 
 ## 🔭 Project
 
@@ -37,8 +38,8 @@
 
 ## ⭐ API
 - [What is REST API?](https://www.youtube.com/watch?v=SLwpqD8n3d0&ab_channel=ProgrammingwithMosh)
-- [API For Beginner](https://www.youtube.com/watch?v=TzAJfjCn7Ks&t=378s&ab_channel=CodeWithDary) 
-- [Laravel API Server Full Course - Beginner to Intermediate](https://www.youtube.com/watch?v=_zNi37BJVBk&ab_channel=Acadea.io)
+- [API For Beginner](https://www.youtube.com/watch?v=TzAJfjCn7Ks&t=378s&ab_channel=CodeWithDary) -> Only basics
+- [Laravel API Server Full Course - Beginner to Intermediate](https://www.youtube.com/watch?v=_zNi37BJVBk&ab_channel=Acadea.io) -> Many advanced concepts
 
 ## 🔭 Project
 
